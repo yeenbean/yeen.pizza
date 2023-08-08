@@ -1,0 +1,51 @@
+/* hmm */
+@font-face {
+    font-family: Recoleta-Bold;
+    src: url(https://keybase.io/fonts/recoleta-bold.woff2);
+}
+
+@font-face {
+    font-family: TikTokFont;
+    src: url(https://lf16-tiktok-common.ibytedtos.com/obj/tiktok-web-common-sg/tiktok_fonts/TikTokFont-Bold.woff2?_default_font=1&v=1);
+}
+
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+.link-keybase {
+    font-family: Recoleta-Bold;
+}
+
+.link-bluesky {
+    background: #ffffff00;
+    color: #ffffff;
+    background: linear-gradient(
+        0deg,
+        #008FFF,
+        #0063FF
+    );
+    font-family: -apple-system,BlinkMacSystemFont,helvetica neue,helvetica,sans-serif;
+    font-weight: bold;
+}
+
+.link-soundcloud {
+    font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
+}
+
+.link-github {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+}
+
+.link-mastodon {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.link-telegram {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Verdana, sans-serif;
+}
+
+.link-tiktok {
+    font-family: TikTokFont,Arial,Tahoma,PingFangSC,sans-serif;
+    background: black;
+}

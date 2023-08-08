@@ -1,0 +1,1 @@
+Hey there! I'm Joshua, a yeen in my late 20s from Arizona. I'm all about music, technology, and information security. Currently, I'm working as a cybersecurity analyst, but I've got plans to head back to university to finish up my software engineering degree. In the meantime, I'm honing my programming skills and making electronic music during my free time.
