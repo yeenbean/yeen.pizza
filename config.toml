@@ -14,10 +14,10 @@ disableKinds = ["taxonomy", "term"]
   image = "https://avatars.githubusercontent.com/u/7747985"  # path relative to static directory
 
   links = [
-    { keybase = "https://keybase.io/yeenbean" },
     { github = "https://github.com/yeenbean" },
+    { keybase = "https://keybase.io/yeenbean" },
     { mastodon = "https://pounced-on.me/@LMAOYEEN" },
-    { bluesky = { href = "https://bsky.app/profile/yeen.pizza", text = "☁️ Bluesky" }},
+    { bluesky = { href = "https://bsky.app/profile/yeen.pizza", text = "Bluesky" }},
     { telegram = "https://t.me/yeenimal" },
     { soundcloud = "https://soundcloud.com/yeenimal/tracks" },
     { tiktok = "https://tiktok.com/@yeenimal" },
